@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Check if /etc/os-release exists
 if [ -f /etc/os-release ]; then
     # Read the ID and VERSION_ID from the os-release file
